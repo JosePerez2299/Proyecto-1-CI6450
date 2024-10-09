@@ -679,9 +679,9 @@ MonoBehaviour:
   target: {fileID: 379280493}
   rb: {fileID: 0}
   maxAcceleration: 10
-  maxSpeed: 17
+  maxSpeed: 20
   rbTarget: {fileID: 0}
-  maxPredition: 10
+  maxPredition: 15
 --- !u!114 &2094754636
 MonoBehaviour:
   m_ObjectHideFlags: 0
